@@ -1,0 +1,1 @@
+MAX_CHARS = 10000  # Maximum characters to read from any file; prevents large files from overflowing the model's context window
